@@ -1,0 +1,16 @@
+p{
+	text-align:justify;
+}
+
+#perfil{
+	width:200px;
+	border-radius: 50%;
+	transform: rotate(90deg);
+
+}
+#galeria{
+	width:75%;
+	
+	border-radius: 10%;
+
+}
